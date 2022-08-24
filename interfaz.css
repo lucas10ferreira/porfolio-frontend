@@ -1,0 +1,48 @@
+
+ 
+ .banner{
+    width: 100%;
+    height: 300px;;
+ }
+ 
+ .foto-porfolio{
+    border-radius: 100px;
+    
+ }
+
+
+.foto-porfolio{
+    width: 15%;
+    transition: 400ms;
+    padding-left: 1px;
+}
+.foto-porfolio:hover{
+    transform: scale(1.2);
+    }
+
+    body{
+      
+        background-color: gray;
+        
+        }
+
+    h5{
+        text-align: left;
+        padding-top: 20px;
+    }
+    .botonera{
+        padding-left: 70px;
+        padding-bottom: 80px;
+    }
+    footer{
+        text-align: center;
+        background: url(imagenes/bg.jpg);
+        padding: 10%;
+    }
+
+.copyright {
+    color : blue;
+    font-size: 13px;
+    margin: 20px;
+   
+}
